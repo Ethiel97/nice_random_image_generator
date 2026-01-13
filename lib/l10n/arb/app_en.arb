@@ -1,0 +1,35 @@
+{
+  "@@locale": "en",
+  "another": "Another",
+  "@another": {
+    "description": "Button text for generating another random image"
+  },
+  "connectionError": "Connection Error",
+  "@connectionError": {
+    "description": "Error message when there is a connection error"
+  },
+  "generate": "Generate",
+  "@generate": {
+    "description": "Button text for generating a new random image"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Text displayed while content is loading"
+  },
+  "loadingImage": "Loading Image...",
+  "@loadingImage": {
+    "description": "Text displayed while an image is loading"
+  },
+  "serverError": "Server Error",
+  "@serverError": {
+    "description": "Error message when there is a server error"
+  },
+  "somethingWentWrong": "Oops! Something went wrong",
+  "@somethingWentWrong": {
+    "description": "Error message when there is an unknown error"
+  },
+  "tryAgain": "Try Again",
+  "@tryAgain": {
+    "description": "Button text for retrying the last failed operation"
+  }
+}

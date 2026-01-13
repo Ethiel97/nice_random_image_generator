@@ -2,9 +2,6 @@
 
 ![Demo](demo.gif)
 
-![coverage][coverage_badge]
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-[![License: MIT][license_badge]][license_link]
 
 A beautiful random image generator Flutter app that displays random images with adaptive background colors.
 
